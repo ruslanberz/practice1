@@ -1,0 +1,11 @@
+Here is the benefits of using GitHub:
+First of all the use of github gives us a version control. We can easily
+control all of code/software version changes and flip back anytime something goes wrong.
+Very usefull code indications show us which lines of code were changed, as well as old and new ones
+(old code lines are marked red, while chenged ones are marked green)
+The second major feature is Hardware independency, where we can easily get access to our code from any device,
+now we do not have to carry our code on flash or orther types of storage devices.
+Third major feature is geographical independency- we can easily work with team from all over the world on the same project.
+Another advantage using github is access control. All repositories are either private or public, to use private ones we have to pay 7$ monthly
+fee. For private repositories we can keep them private (only 1 person can have access to code) or give special access to project mates
+(but for all others the view of project is restricted)
